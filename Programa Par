@@ -1,0 +1,16 @@
+public class ExRepetição2_BrunoNogueira {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+       int num = 1000;
+       
+       while(num<1050)
+       {
+           num = num+2;
+           System.out.println(num);
+       }
+    }
+    
+}
